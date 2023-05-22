@@ -1,0 +1,2 @@
+hacer git init --y
+
